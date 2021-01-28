@@ -20,6 +20,6 @@
 
 # 🙏 Support
 
-<a href="https://www.buymeacoffee.com/Rahul19p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+<a href="https://www.buymeacoffee.com/Rahul19p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 10% !important;width: 25% !important;" ></a></p>
 <a href="https://www.paypal.me/RahulPujari" target="_blank">
-<img src="https://i.imgur.com/9YC5tQ5.png" alt="paypal donate" src="https://ionicabizau.github.io/badges/paypal.svg" style="height: 60px !important;width: 217px !important;"></a></p>
+<img src="https://i.imgur.com/9YC5tQ5.png" alt="paypal donate" src="https://ionicabizau.github.io/badges/paypal.svg" style="height: 10% !important;width: 25% !important;"></a></p>
