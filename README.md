@@ -15,6 +15,5 @@
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahul1996pp&show_icons=true alt=rahul1996pp /> </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1996pp)](https://github.com/anuraghazra/github-readme-stats)
 # 🙏 Support
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Rahul19p" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <a href="https://www.buymeacoffee.com/Rahul19p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <a href="https://www.paypal.me/RahulPujari" rel="nofollow"><img src="https://i.imgur.com/9YC5tQ5.png" alt="paypal donate" data-canonical-src="https://ionicabizau.github.io/badges/paypal.svg" style="height: 60px !important;width: 217px !important;"></a>
