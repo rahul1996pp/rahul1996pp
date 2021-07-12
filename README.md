@@ -8,7 +8,6 @@
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/rahul1996p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahul1996p" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul-pujari-p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-pujari-p" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
