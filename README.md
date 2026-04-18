@@ -1,112 +1,117 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Rahul%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20•%20Builder%20•%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Rahul&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20ML%20Enthusiast&descAlignY=80&descSize=18&stroke=00f5ff&strokeWidth=2" width="100%"/>
 
-<!-- Typing Animation -->
+</div>
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Android+Developer+%F0%9F%93%B1;ML+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Python+%7C+Java+%7C+Web+Dev;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Android+Developer+%F0%9F%93%B1;ML+%26+Computer+Vision+Guy+%F0%9F%A4%96;Python+%7C+Java+%7C+TensorFlow+Dev;Always+Building+Something+New+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-rahul1996pp-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/rahul1996pp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul1996pp)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahul1996p)
+[![BuyMeACoffee](https://img.shields.io/badge/%E2%98%95_Buy_Me_Coffee-Support-FFDD00?style=for-the-badge&logoColor=black)](https://www.buymeacoffee.com/Rahul19p)
+
 <br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-rahul1996pp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul1996pp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul1996pp/)
-[![Twitter](https://img.shields.io/badge/Twitter-@rahul1996p-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahul1996p)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Rahul19p-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Rahul19p)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahul1996pp&label=Profile+Views&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rahul1996pp&label=Profile+Views&color=00f5ff&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/rahul1996pp?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Followers)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 🧑‍💻 About Me
 
 ```python
 class Rahul:
-    location     = "India 🇮🇳"
-    role         = "Software Developer"
-    focus        = ["Android", "Machine Learning", "Computer Vision"]
-    stack        = ["Java", "Python", "HTML/CSS", "MySQL"]
-    tools        = ["TensorFlow", "OpenCV", "Linux"]
-    hobbies      = ["Coding", "Learning", "Building cool stuff"]
-    fun_fact     = "I turn chai ☕ into code 💻"
+    location  = "India 🇮🇳"
+    role      = "Software Developer"
+    passion   = ["Android", "ML", "Computer Vision"]
+    stack     = ["Java", "Python", "TensorFlow", "OpenCV"]
+    hobbies   = ["Coding", "Building", "Learning"]
+    fun_fact  = "I turn chai ☕ into code 💻"
+
+    def greet(self):
+        return "Let's build something amazing! 🚀"
 ```
 
+<br/>
+
+- 🔭 Always building something **new and innovative**
+- 🌱 Deepening **ML & Computer Vision** skills
+- 💬 Ask me about **Android, Python, TensorFlow, OpenCV**
+- ⚡ Fun fact: Coffee ≈ Commits
+
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=java,android,python,tensorflow,mysql,linux,html,git,vscode&theme=dark&perline=9" alt="Tech Stack"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-**Frameworks & Libraries**
+<br/>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<div align="center">
 
-**Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahul1996pp&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1996pp&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rahul1996pp&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=14&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9" alt="Stats"/>
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1996pp&theme=tokyonight&hide_border=true&background=0D1117&border_radius=14&ring=00f5ff&fire=a855f7&currStreakLabel=00f5ff" alt="Streak"/>
 
-<br/><br/>
+<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1996pp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1996pp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f5ff&border_radius=14" alt="Languages"/>
+&nbsp;
+<img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahul1996pp&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00f5ff&line=a855f7&point=ffffff&area=true" alt="Activity"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahul1996pp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rahul1996pp&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 💡 Dev Wisdom
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul1996pp&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph" width="95%"/>
-
-</div>
-
----
-
-## 💡 A Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="80%"/>
 
 </div>
 
@@ -116,16 +121,16 @@ class Rahul:
 
 <div align="center">
 
-If you like what I build, consider buying me a coffee or tipping via PayPal — it keeps the ideas (and caffeine) flowing!
+*If you enjoy what I build, consider fueling the creativity!*
 
 <br/>
 
 <a href="https://www.buymeacoffee.com/Rahul19p">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.paypal.me/RahulPujari">
-  <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" alt="PayPal"/>
 </a>
 
 </div>
@@ -134,8 +139,8 @@ If you like what I build, consider buying me a coffee or tipping via PayPal — 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" width="100%"/>
 
-**Thanks for stopping by! Let's connect and build something amazing together. 🚀**
+**✨ Thanks for visiting — let's connect and build something awesome together 🚀**
 
 </div>
